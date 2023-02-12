@@ -3,8 +3,8 @@
 
     <modelVersion>4.0.0</modelVersion>
     <groupId>me.sfiguz7</groupId>
-    <artifactId>TranscEndence</artifactId>
-    <version>Skyfactory-33</version>
+    <artifactId>TranscEndence-Void</artifactId>
+    <version>MODIFIED</version>
 
     <properties>
         <maven.compiler.source>1.8</maven.compiler.source>
@@ -103,9 +103,9 @@
         </dependency>
 
         <dependency>
-            <groupId>com.github.TheBusyBiscuit</groupId>
+            <groupId>com.github.Slimefun</groupId>
             <artifactId>Slimefun4</artifactId>
-            <version>RC-27</version>
+            <version>RC-33</version>
             <scope>provided</scope>
             <exclusions>
                 <exclusion>
